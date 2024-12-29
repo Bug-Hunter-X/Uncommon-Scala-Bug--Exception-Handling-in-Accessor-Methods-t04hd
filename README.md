@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Scala related to exception handling within accessor methods. The `MyClass` example showcases a common pattern where a private variable (`_age`) is used with accessor and mutator methods (`age` and `age_=`) to encapsulate state.  The solution shows how to improve error handling for better code robustness.
